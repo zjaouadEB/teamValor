@@ -1,0 +1,9 @@
+#files and folders to ignore
+assets/
+backend/helpers/
+backend/apiHandler.php
+backend/getInfo.php
+javascript/
+templates/
+index.old.php
+
